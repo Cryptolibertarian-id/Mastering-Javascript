@@ -7,13 +7,93 @@
 
 - [ ] Mastering Javascript
 - [ ] Data Types
+  - [ ] Javascript Data Types
+    - [ ] What is Data?
+    - [ ] What is Types?
+    - [ ] What is Generic Variable?
+    - [ ] Javascript Data Types
+    - [ ] What is pointer?
+    - [ ] What is Stack & Heap?
+    - [ ] What is Primitive & Reference Values?
+    - [ ] Primitive Types
+    - [ ] Reference Types
+    - [ ] Primitive as Object Via Wrapper
+  - [ ] Data Types Conversion
+    - [ ] Dynamic Typed
+    - [ ] String to Number
+    - [ ] String to Decimal Number
+    - [ ] Number to String
+    - [ ] Decimal Number to String
+    - [ ] Boolean to String
+    - [ ] Check Data Type
+  - [ ] Number Data Types
+    - [ ] Infinity
+    - [ ] NaN
+    - [ ] Maximum & Minimum Value
+    - [ ] Max Safe Integer
+    - [ ] Safe Integer Checking
+    - [ ] Positive e Notation
+    - [ ] Negative e Notation
+    - [ ] Rounding
+    - [ ] Precision
+    - [ ] Exponentiation
+    - [ ] e Notation Trigger
+    - [ ] Number Accuration
+    - [ ] Imprecise Solution
+    - [ ] Fixed Number
+    - [ ] Numeric Conversion
+    - [ ] Math Object
+    - [ ] Hexadecimal, Binary & Octadecimal
+  - [ ] String Data Types
+  - [ ] Boolean Data Types
+  - [ ] Null Data Types
+  - [ ] Undefined Data Types
+  - [ ] Symbol Data Types
+  - [ ] BigInt Data Types
+    - [ ] Arbitrary Precision
+    - [ ] Arithmetic Operation
+    - [ ] Comparison
 - [ ] Control Flow
 - [ ] Loop & Iteration
 - [ ] Function
 - [ ] Error Handling
+  - [ ] Syntax Error
+  - [ ] Logic Error
+  - [ ] Runtime Error
+  - [ ] Try & Catch
+  - [ ] Custom Error
 - [ ] Object
+  - [ ] What is Fundamental Object?
+  - [ ] Custom Object
+  - [ ] Custom Object Property
+  - [ ] Custom Object Method
+  - [ ] Custom Object Looping
+  - [ ] Object Class
+  - [ ] Javascript Object Notation (JSON)
 - [ ] Classes
+  - [ ] Class-based Language
+  - [ ] Class Declaration
+    - [ ] Strict Mode
+    - [ ] Constructor
+    - [ ] Static Method
+    - [ ] Getter & Setter
+  - [ ] Class Expression
+    - [ ] Unnamed Class
+    - [ ] Named Class
+  - [ ] Class Inheritance
+    - [ ] Method Override
+    - [ ] Constructor Override
 - [ ] Collection
+  - [ ] What is Collection?
+  - [ ] What is Indexed Collection?
+    - [ ] Array
+      - [ ] Create Array
+      - [ ] Array Property & Method
+      - [ ] Multidimensional Array
+    - [ ] Typed Array
+  - [ ] Keyed Collection
+    - [ ] Map
+    - [ ] Set
 
 
 
