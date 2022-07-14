@@ -123,3 +123,48 @@ This means that we can have great potential and opportunities if we want to lear
 Before writing this book, I had read an interesting quote about javascript in a magazine.
 
 <img src="assets/Jeff-atwood.png" style="zoom:120%;" />
+
+
+
+---
+
+
+
+# Collection
+
+
+
+## What is Collection? 
+
+
+
+## Indexed Collection
+
+
+
+### Array
+
+
+
+### Typed Array
+
+Typed Arrays are an ECMAScript 6 API for handling binary data. **Typed arrays** are array-like objects that provide a mechanism for reading and writing raw binary data in memory buffers.
+
+
+
+
+
+JavaScript Provides 8 **Typed Array** types:
+
+- `Int8Array` an array of 8-bit signed integers
+- `Int16Array` an array of 16-bit signed integers
+- `Int32Array` an array of 32-bit signed integers
+- `Uint8Array` an array of 8-bit unsigned integers
+- `Uint16Array` an array of 16-bit unsigned integers
+- `Uint32Array` an array of 32-bit unsigned integers
+- `Float32Array` an array of 32-bit floating point numbers
+- `Float64Array` an array of 64-bit floating point numbers
+
+
+
+## Keyed Collection
